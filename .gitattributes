@@ -1,0 +1,8 @@
+# Language stats: count the Dart app code, not generated or platform boilerplate
+web/drift_worker.js linguist-generated
+lib/**/*.g.dart linguist-generated
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
